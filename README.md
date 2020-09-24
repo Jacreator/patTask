@@ -21,5 +21,5 @@ The end point are
 
 [All User](/api/users)
 
-the full documentation of this API is in [Json file](AuthCollection.postman_collection.json).
+the full documentation of this API is in [Json file](AuthCollection.postman_collection.json). And for a better view/UI import [this file](AuthCollection.postman_collection.json) to postman.
 
